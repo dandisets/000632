@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000632
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -9,44 +10,73 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Silkuniene, Giedre (2023) Electroporation efficiency of co-directional and
-  cross-directional paired pulses (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei (2023)
+  Electroporation efficiency of co-directional and cross-directional paired pulses
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000632/draft
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
+  identifier: 0000-0001-8436-9718
   includeInCitation: true
   name: Silkuniene, Giedre
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation: []
+  identifier: 0000-0003-0699-5582
+  includeInCitation: true
+  name: Kim, Vitalii
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  identifier: 0000-0002-0302-1355
+  includeInCitation: true
+  name: Semenov, Iurii
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  identifier: 0000-0003-3816-3860
+  includeInCitation: true
+  name: Pakhomov, Andrei
+  roleName: []
+  schemaKey: Person
+- awardNumber: NIH 1R21EY034258
+  contactPoint: []
+  includeInCitation: false
+  name: 'National Institutes of Health '
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2023-09-14T19:01:32.791752+00:00'
-datePublished: '2023-09-14T19:02:11.042821+00:00'
 description: Trains of 4 paired pulses (600 + 600 ns) were applied to BPAE cell monolayers
   at either 1 Hz or 770 kHz, at 10 kV/cm. The electric field direction either stayed
   the same in each pair or was changed by 90°. Electroporation efficiency was measured
   by the ptake of YP dye. Supported by NIH 1R21EY034258
-doi: 10.80507/dandi.123456/0.123456.1234
+ethicsApproval: []
 id: DANDI:000632/draft
 identifier: DANDI:000632
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000632/versions/draft/assets/
 name: Electroporation efficiency of co-directional and cross-directional paired pulses
-publishedBy:
-  endDate: '2023-09-14T19:02:11.042821+00:00'
-  id: urn:uuid:d69b9be2-aefa-4e4c-8344-cfc24f49e1fc
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-09-14T19:02:11.042821+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:4e0132fa-fb28-4ed7-9d09-1fc483119ddd
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
+protocol: []
+relatedResource:
+- name: Control of the Electroporation Efficiency of Nanosecond Pulses by Swinging
+    the Electric Field Vector Direction
+  relation: dcite:IsPublishedIn
+  schemaKey: Resource
+  url: https:// doi.org/10.3390/ijms241310921
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000632/draft
 version: draft
+wasGeneratedBy:
+- identifier: NIH 1R21EY034258
+  name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
+  schemaKey: Project
+  used: []
+  wasAssociatedWith: []
