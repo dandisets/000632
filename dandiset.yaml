@@ -7,9 +7,21 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 10658137794
+  numberOfFiles: 6
+  numberOfSubjects: 6
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9913
+    name: Bos taurus - Cattle
+    schemaKey: SpeciesType
+  variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei (2023)
   Electroporation efficiency of co-directional and cross-directional paired pulses
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000632/draft
