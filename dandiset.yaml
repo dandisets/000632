@@ -24,7 +24,7 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei (2023)
   Electroporation efficiency of co-directional and cross-directional paired pulses
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000632/draft
+  (Version 0.231012.1930) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000632/0.231012.1930
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -72,14 +72,15 @@ description: 'The efficiency of electroporation was evaluated in an experiment i
   electric field orientations and frequencies. Supported by NIH 1R21EY034258
 
   '
+doi: 10.48324/dandi.000632/0.231012.1930
 ethicsApproval: []
-id: DANDI:000632/draft
+id: DANDI:000632/0.231012.1930
 identifier: DANDI:000632
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000632/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000632/0.231012.1930/assets.yaml
 name: Electroporation efficiency of co-directional and cross-directional paired pulses
 protocol: []
 publishedBy:
@@ -104,8 +105,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000632/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000632/0.231012.1930
+version: 0.231012.1930
 wasGeneratedBy:
 - identifier: NIH 1R21EY034258
   name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
