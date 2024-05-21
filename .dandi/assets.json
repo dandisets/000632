@@ -5,7 +5,7 @@
 "blob":
 "c6dbe44c-f525-4d3e-9f09-6b3b13962436",
 "created":
-"2023-10-12T18:58:11.441701+00:00",
+"2023-10-12T18:58:11.441701Z",
 "metadata":
 {
 "@context":
@@ -172,7 +172,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:39.981284+00:00",
+"2023-10-12T19:30:39.981284Z",
 "path":
 "sub-BPAE-8bipolar-1Hz-03/sub-BPAE-8bipolar-1Hz-03_ses-Cross-directional-1Hz_image.nwb",
 "size":
@@ -184,7 +184,7 @@
 "blob":
 "fe1236c5-b6c3-4d5d-b572-0775f239948d",
 "created":
-"2023-10-12T18:57:53.348869+00:00",
+"2023-10-12T18:57:53.348869Z",
 "metadata":
 {
 "@context":
@@ -351,7 +351,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:39.928464+00:00",
+"2023-10-12T19:30:39.928464Z",
 "path":
 "sub-BPAE-8bipolar-1Hz-05/sub-BPAE-8bipolar-1Hz-05_ses-Cross-directional-1Hz_image.nwb",
 "size":
@@ -363,7 +363,7 @@
 "blob":
 "6354708e-3d7b-4de0-9300-46cc17d2cfae",
 "created":
-"2023-10-12T18:58:01.952940+00:00",
+"2023-10-12T18:58:01.952940Z",
 "metadata":
 {
 "@context":
@@ -530,7 +530,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:39.950075+00:00",
+"2023-10-12T19:30:39.950075Z",
 "path":
 "sub-BPAE-8bipolar-1Hz-12/sub-BPAE-8bipolar-1Hz-12_ses-Cross-directional-1Hz_image.nwb",
 "size":
@@ -542,7 +542,7 @@
 "blob":
 "c4b80dbc-add6-48d0-b132-989d459f2cab",
 "created":
-"2023-10-12T18:58:07.784476+00:00",
+"2023-10-12T18:58:07.784476Z",
 "metadata":
 {
 "@context":
@@ -709,7 +709,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:39.958792+00:00",
+"2023-10-12T19:30:39.958792Z",
 "path":
 "sub-BPAE-8bipolar-1Hz-600ns-04/sub-BPAE-8bipolar-1Hz-600ns-04_ses-Cross-directional-1Hz_image.nwb",
 "size":
@@ -721,7 +721,7 @@
 "blob":
 "91b51b0b-1d5b-49ce-b100-525eb468dcdc",
 "created":
-"2023-10-12T18:58:10.682854+00:00",
+"2023-10-12T18:58:10.682854Z",
 "metadata":
 {
 "@context":
@@ -888,7 +888,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:39.971279+00:00",
+"2023-10-12T19:30:39.971279Z",
 "path":
 "sub-BPAE-8bipolar-1Hz-600ns-07/sub-BPAE-8bipolar-1Hz-600ns-07_ses-Cross-directional-1Hz_image.nwb",
 "size":
@@ -900,7 +900,7 @@
 "blob":
 "03e5f51d-60df-46c6-beb9-6613388170fd",
 "created":
-"2023-10-12T18:59:29.507745+00:00",
+"2023-10-12T18:59:29.507745Z",
 "metadata":
 {
 "@context":
@@ -1067,7 +1067,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:39.990703+00:00",
+"2023-10-12T19:30:39.990703Z",
 "path":
 "sub-BPAE-8bipolar-1Hz-600ns-11/sub-BPAE-8bipolar-1Hz-600ns-11_ses-Cross-directional-1Hz_image.nwb",
 "size":
@@ -1079,7 +1079,7 @@
 "blob":
 "f58b321e-db18-4a19-8b4f-6ba70fed118d",
 "created":
-"2023-10-12T19:00:51.963857+00:00",
+"2023-10-12T19:00:51.963857Z",
 "metadata":
 {
 "@context":
@@ -1246,7 +1246,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.027218+00:00",
+"2023-10-12T19:30:40.027218Z",
 "path":
 "sub-BPAE-8bipolar-770kHz-02/sub-BPAE-8bipolar-770kHz-02_ses-Cross-directional-770kHz_image.nwb",
 "size":
@@ -1258,7 +1258,7 @@
 "blob":
 "641fe82b-b773-44a2-b09f-d508dde635c6",
 "created":
-"2023-10-12T19:00:44.322006+00:00",
+"2023-10-12T19:00:44.322006Z",
 "metadata":
 {
 "@context":
@@ -1425,7 +1425,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:39.999312+00:00",
+"2023-10-12T19:30:39.999312Z",
 "path":
 "sub-BPAE-8bipolar-770kHz-08/sub-BPAE-8bipolar-770kHz-08_ses-Cross-directional-770kHz_image.nwb",
 "size":
@@ -1437,7 +1437,7 @@
 "blob":
 "7d4ae19c-85c4-4bc9-8513-b6b988a5f188",
 "created":
-"2023-10-12T19:00:50.327104+00:00",
+"2023-10-12T19:00:50.327104Z",
 "metadata":
 {
 "@context":
@@ -1604,7 +1604,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.017449+00:00",
+"2023-10-12T19:30:40.017449Z",
 "path":
 "sub-BPAE-8bipolar-770kHz-09/sub-BPAE-8bipolar-770kHz-09_ses-Cross-directional-770kHz_image.nwb",
 "size":
@@ -1616,7 +1616,7 @@
 "blob":
 "3db608bf-ed78-45b4-8bae-a29a4c993f4a",
 "created":
-"2023-10-12T19:00:56.125581+00:00",
+"2023-10-12T19:00:56.125581Z",
 "metadata":
 {
 "@context":
@@ -1783,7 +1783,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.036166+00:00",
+"2023-10-12T19:30:40.036166Z",
 "path":
 "sub-BPAE-8bipolar-770kHz-10/sub-BPAE-8bipolar-770kHz-10_ses-Cross-directional-770kHz_image.nwb",
 "size":
@@ -1795,7 +1795,7 @@
 "blob":
 "4a69a270-231b-4af8-904d-ed49e0e56d35",
 "created":
-"2023-10-12T19:01:35.757207+00:00",
+"2023-10-12T19:01:35.757207Z",
 "metadata":
 {
 "@context":
@@ -1962,7 +1962,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.045203+00:00",
+"2023-10-12T19:30:40.045203Z",
 "path":
 "sub-BPAE-8bipolar-770kHz-600ns-01/sub-BPAE-8bipolar-770kHz-600ns-01_ses-Cross-directional-770kHz_image.nwb",
 "size":
@@ -1974,7 +1974,7 @@
 "blob":
 "043f2bc0-7688-463a-80df-3f6475748bca",
 "created":
-"2023-10-12T19:03:09.653569+00:00",
+"2023-10-12T19:03:09.653569Z",
 "metadata":
 {
 "@context":
@@ -2141,7 +2141,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.055203+00:00",
+"2023-10-12T19:30:40.055203Z",
 "path":
 "sub-BPAE-8bipolar-770kHz-600ns-06/sub-BPAE-8bipolar-770kHz-600ns-06_ses-Cross-directional-770kHz_image.nwb",
 "size":
@@ -2153,7 +2153,7 @@
 "blob":
 "638fdce0-0627-4dab-84f9-03e300890ba8",
 "created":
-"2023-10-12T19:03:25.716520+00:00",
+"2023-10-12T19:03:25.716520Z",
 "metadata":
 {
 "@context":
@@ -2320,7 +2320,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.075219+00:00",
+"2023-10-12T19:30:40.075219Z",
 "path":
 "sub-BPAE-8bipolar-770kHz-600ns-10/sub-BPAE-8bipolar-770kHz-600ns-10_ses-Cross-directional-770kHz_image.nwb",
 "size":
@@ -2332,7 +2332,7 @@
 "blob":
 "7ddd5cf1-1460-4ca8-9950-9c604a9ff3ad",
 "created":
-"2023-10-12T19:03:24.670315+00:00",
+"2023-10-12T19:03:24.670315Z",
 "metadata":
 {
 "@context":
@@ -2499,7 +2499,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.065012+00:00",
+"2023-10-12T19:30:40.065012Z",
 "path":
 "sub-BPAE-8unipolar-1Hz-04/sub-BPAE-8unipolar-1Hz-04_ses-Co-directional-1Hz_image.nwb",
 "size":
@@ -2511,7 +2511,7 @@
 "blob":
 "b64596c5-35da-4563-b233-8ee21f4e286b",
 "created":
-"2023-10-12T19:03:29.371181+00:00",
+"2023-10-12T19:03:29.371181Z",
 "metadata":
 {
 "@context":
@@ -2678,7 +2678,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.085445+00:00",
+"2023-10-12T19:30:40.085445Z",
 "path":
 "sub-BPAE-8unipolar-1Hz-07/sub-BPAE-8unipolar-1Hz-07_ses-Co-directional-1Hz_image.nwb",
 "size":
@@ -2690,7 +2690,7 @@
 "blob":
 "b3c1c380-36cc-4a43-93a0-c281acf035cb",
 "created":
-"2023-10-12T19:04:00.361830+00:00",
+"2023-10-12T19:04:00.361830Z",
 "metadata":
 {
 "@context":
@@ -2857,7 +2857,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.096030+00:00",
+"2023-10-12T19:30:40.096030Z",
 "path":
 "sub-BPAE-8unipolar-1Hz-11/sub-BPAE-8unipolar-1Hz-11_ses-Co-directional-1Hz_image.nwb",
 "size":
@@ -2869,7 +2869,7 @@
 "blob":
 "685e3d6c-43b7-4c74-95ba-c5a3cb1fd18d",
 "created":
-"2023-10-12T19:05:30.230155+00:00",
+"2023-10-12T19:05:30.230155Z",
 "metadata":
 {
 "@context":
@@ -3036,7 +3036,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.106507+00:00",
+"2023-10-12T19:30:40.106507Z",
 "path":
 "sub-BPAE-8unipolar-1Hz-600ns-03/sub-BPAE-8unipolar-1Hz-600ns-03_ses-Co-directional-1Hz_image.nwb",
 "size":
@@ -3048,7 +3048,7 @@
 "blob":
 "335a2a58-2b41-4aad-9db4-68284768041a",
 "created":
-"2023-10-12T19:05:54.887092+00:00",
+"2023-10-12T19:05:54.887092Z",
 "metadata":
 {
 "@context":
@@ -3215,7 +3215,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.116423+00:00",
+"2023-10-12T19:30:40.116423Z",
 "path":
 "sub-BPAE-8unipolar-1Hz-600ns-08/sub-BPAE-8unipolar-1Hz-600ns-08_ses-Co-directional-1Hz_image.nwb",
 "size":
@@ -3227,7 +3227,7 @@
 "blob":
 "1c777095-3cbd-4c06-b4cf-6630e03b0ac3",
 "created":
-"2023-10-12T19:05:58.640724+00:00",
+"2023-10-12T19:05:58.640724Z",
 "metadata":
 {
 "@context":
@@ -3394,7 +3394,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.127580+00:00",
+"2023-10-12T19:30:40.127580Z",
 "path":
 "sub-BPAE-8unipolar-1Hz-600ns-09/sub-BPAE-8unipolar-1Hz-600ns-09_ses-Co-directional-1Hz_image.nwb",
 "size":
@@ -3406,7 +3406,7 @@
 "blob":
 "57f77c67-5813-4c6a-b176-b8179576a19d",
 "created":
-"2023-10-12T19:06:03.089806+00:00",
+"2023-10-12T19:06:03.089806Z",
 "metadata":
 {
 "@context":
@@ -3573,7 +3573,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.139274+00:00",
+"2023-10-12T19:30:40.139274Z",
 "path":
 "sub-BPAE-8unipolar-770kHz-01/sub-BPAE-8unipolar-770kHz-01_ses-Co-directional-770kHz_image.nwb",
 "size":
@@ -3585,7 +3585,7 @@
 "blob":
 "dd2c815a-2097-4ee8-8e53-250d912ad86a",
 "created":
-"2023-10-12T19:06:38.452793+00:00",
+"2023-10-12T19:06:38.452793Z",
 "metadata":
 {
 "@context":
@@ -3752,7 +3752,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.150553+00:00",
+"2023-10-12T19:30:40.150553Z",
 "path":
 "sub-BPAE-8unipolar-770kHz-06/sub-BPAE-8unipolar-770kHz-06_ses-Co-directional-770kHz_image.nwb",
 "size":
@@ -3764,7 +3764,7 @@
 "blob":
 "7e6b0638-9385-4f5e-9980-aa8609e0b75f",
 "created":
-"2023-10-12T19:07:17.915934+00:00",
+"2023-10-12T19:07:17.915934Z",
 "metadata":
 {
 "@context":
@@ -3931,7 +3931,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.162309+00:00",
+"2023-10-12T19:30:40.162309Z",
 "path":
 "sub-BPAE-8unipolar-770kHz-600ns-02/sub-BPAE-8unipolar-770kHz-600ns-02_ses-Co-directional-770kHz_image.nwb",
 "size":
@@ -3943,7 +3943,7 @@
 "blob":
 "5443515c-8977-4848-97f3-d4f75f0b5f16",
 "created":
-"2023-10-12T19:07:30.380257+00:00",
+"2023-10-12T19:07:30.380257Z",
 "metadata":
 {
 "@context":
@@ -4110,7 +4110,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.172047+00:00",
+"2023-10-12T19:30:40.172047Z",
 "path":
 "sub-BPAE-8unipolar-770kHz-600ns-05/sub-BPAE-8unipolar-770kHz-600ns-05_ses-Co-directional-770kHz_image.nwb",
 "size":
@@ -4122,7 +4122,7 @@
 "blob":
 "bc07d507-2841-49c5-a4b9-105f076909ae",
 "created":
-"2023-10-12T19:07:30.625429+00:00",
+"2023-10-12T19:07:30.625429Z",
 "metadata":
 {
 "@context":
@@ -4289,7 +4289,7 @@
 ]
 },
 "modified":
-"2023-10-12T19:30:40.181741+00:00",
+"2023-10-12T19:30:40.181741Z",
 "path":
 "sub-BPAE-8unipolar-770kHz-600ns-12/sub-BPAE-8unipolar-770kHz-600ns-12_ses-Co-directional-770kHz_image.nwb",
 "size":
